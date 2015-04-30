@@ -11,7 +11,7 @@
 
 static GLuint texid;
 
-
+//test
 
 void doPaintImage(GLubyte * image){
     glGenTextures(1, &texid);
