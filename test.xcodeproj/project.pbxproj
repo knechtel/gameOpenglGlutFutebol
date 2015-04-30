@@ -30,6 +30,9 @@
 		0260D0FE1A9D437000760CA3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		0260D1051A9D438300760CA3 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		0260D1071A9D438E00760CA3 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		0278AB571AEC1D0000B1D787 /* util.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = util.h; sourceTree = "<group>"; };
+		0278AB581AEC22A700B1D787 /* doPaint.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = doPaint.h; sourceTree = "<group>"; };
+		0278AB591AEC75D500B1D787 /* moveBall.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = moveBall.h; sourceTree = "<group>"; };
 		02B549CE1AB7AF6A0031D79D /* Image.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Image.cpp; sourceTree = "<group>"; };
 		02B549CF1AB7AF6A0031D79D /* Image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Image.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -71,6 +74,9 @@
 				0260D0FE1A9D437000760CA3 /* main.cpp */,
 				02B549CE1AB7AF6A0031D79D /* Image.cpp */,
 				02B549CF1AB7AF6A0031D79D /* Image.h */,
+				0278AB571AEC1D0000B1D787 /* util.h */,
+				0278AB581AEC22A700B1D787 /* doPaint.h */,
+				0278AB591AEC75D500B1D787 /* moveBall.h */,
 			);
 			path = test;
 			sourceTree = "<group>";
