@@ -10,6 +10,7 @@
 #define test_util_h
 
 static GLuint texid;
+static GLubyte test;
 
 //test maiquel
 
